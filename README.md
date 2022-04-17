@@ -9,6 +9,8 @@ run main.m
    of Earth Science Informatics, 2022.
    
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
+   
+   Our paper was accepted in April, but no official version has been published yet. The unpublished version PDF is available for now and will be updated later.
 
 2. This MATLAB code is tested on Windows 10 64bit with MATLAB 2016b. 
 
