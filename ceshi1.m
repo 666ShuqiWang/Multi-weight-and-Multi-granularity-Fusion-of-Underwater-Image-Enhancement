@@ -1,0 +1,12 @@
+%fusion = imread('Drews J P.jpg');
+fusion = imread('C:\Users\ll\Desktop\matlab代码及图像\模糊图像\水下图像\GAN\1\UGAN-pytorch-master\PyTorch\data\UDCP\1\16.jpg');
+%fusion = imread('Galdran.jpg');
+%fusion = imread('he.jpg');
+%fusion = imread('our result.jpg');
+%fusion = imread('2018.jpg');
+%fusion = imread('2012.jpg');
+uicm=UICM(fusion)
+uiconm=UIConM(fusion)
+uism = UISM(fusion)
+uiqm = UIQM(fusion)
+uciqe = UCIQE(fusion)
