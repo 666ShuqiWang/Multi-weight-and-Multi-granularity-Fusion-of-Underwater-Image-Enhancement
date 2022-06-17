@@ -11,12 +11,19 @@ run main.m
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
    
   @article{wang2022multi,
+  
   title={Multi-weight and multi-granularity fusion of underwater image enhancement},
+  
   author={Wang, Shuqi and Chen, Zhixiang and Wang, Hui},
+  
   journal={Earth Science Informatics},
+  
   pages={1--11},
+  
   year={2022},
+  
   publisher={Springer}
+  
   }
 
 2. This MATLAB code is tested on Windows 10 64bit with MATLAB 2016b. 
